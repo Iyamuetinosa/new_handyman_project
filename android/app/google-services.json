@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "863242553167",
+    "firebase_url": "https://handyman-app-ffd2f-default-rtdb.firebaseio.com",
+    "project_id": "handyman-app-ffd2f",
+    "storage_bucket": "handyman-app-ffd2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863242553167:android:6c9c518a065c9ab1f8a73a",
+        "android_client_info": {
+          "package_name": "com.etinosa.handyman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863242553167-1d4rda8c2j129ij72r0moklc2lapgjhk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.etinosa.handyman",
+            "certificate_hash": "e70a342734d15c8995c71e952b68dd6b25cd6ea4"
+          }
+        },
+        {
+          "client_id": "863242553167-clk4h3hvhes9bqin1ml8921lmhf8d0o6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOoOb5IvMouujIlb2QQbhVy57VagS7gFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863242553167-clk4h3hvhes9bqin1ml8921lmhf8d0o6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
